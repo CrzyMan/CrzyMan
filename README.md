@@ -9,8 +9,12 @@
 I'm a freelance fullstack developer in the US. I also do physical product prototyping for consumer products.
 I serve small companies and startups by developing tools and platforms to help them run their businesses.
 
+Here's My Personal Site [https://tyler-whitehouse.com](https://tyler-whitehouse.com)
+
+And it's [GitHub repository](https://github.com/CrzyMan/TylerWhitehouseWebsite)
+
 - 🌱 I’m currently practicing with a CloudFlare, SvelteKit, and SupaBase tech stack
-- 👀 Outside of programming, I'm developing my sales skills and business knowledge
+- 👀 Outside of programming, I'm developing my sales/marketing skills and business knowledge for SaaS, Cycling, and Live-Streaming
 - 📫 How to reach me [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat)](mailto:tyler.s.whitehouse@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tyler-whitehouse/)
 
 ---
