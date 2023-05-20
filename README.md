@@ -51,7 +51,8 @@ And it's [GitHub repository](https://github.com/CrzyMan/TylerWhitehouseWebsite)
 <div>
   <img title="PostgresSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40px" width="40px"/>
   <img title="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40px" width="40px"/>
-  <img title="SupaBase" src="https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/1968/c0dbe341-1d94-4192-a93b-921519678894.png" height="40px" width="40px"/>
+  <img title="SupaBase" src="https://avatars.githubusercontent.com/u/54469796?s=40&v=4" height="40px" width="40px"/>
+  <img title="Firebase" src="https://avatars.githubusercontent.com/u/1335026?s=40&v=4" height="40px" width="40px"/>
 </div>
 
 🔨 Physical Prototyping
