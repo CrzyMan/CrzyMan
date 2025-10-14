@@ -73,10 +73,8 @@ And it's [GitHub repository](https://github.com/CrzyMan/TylerWhitehouseWebsite)
 
 ### 🔥 My Stats:
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=crzyman&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crzyman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crzyman&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![CrzyMan StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1259665&theme=dark)](https://stackoverflow.com/users/1259665/thecrzyman)  
+[![CrzyMan StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1259665)](https://stackoverflow.com/users/1259665/thecrzyman)  
 
 
