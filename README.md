@@ -6,16 +6,7 @@
 
 ---
 ### About Me:
-I'm a freelance fullstack developer in the US. I also do physical product prototyping for consumer products.
-I serve small companies and startups by developing tools and platforms to help them run their businesses.
-
-Here's My Personal Site [https://tyler-whitehouse.com](https://tyler-whitehouse.com)
-
-And it's [GitHub repository](https://github.com/CrzyMan/TylerWhitehouseWebsite)
-
-- 🌱 I’m currently practicing with a CloudFlare, SvelteKit, and SupaBase tech stack
-- 👀 Outside of programming, I'm developing my sales/marketing skills and business knowledge for SaaS, Cycling, and Live-Streaming
-- 📫 How to reach me [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat)](mailto:tyler.s.whitehouse@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tyler-whitehouse/)
+I own Hyperfocus Software LLC, a contract software development and consulting company serving companies ranging from startups to fortune 500.
 
 ---
 ### 🛠️ My Tools:
@@ -68,13 +59,3 @@ And it's [GitHub repository](https://github.com/CrzyMan/TylerWhitehouseWebsite)
 <div>
   <img title="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40px" />
 </div>
-
----
-
-### 🔥 My Stats:
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crzyman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![CrzyMan StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1259665)](https://stackoverflow.com/users/1259665/thecrzyman)  
-
-
